@@ -1,1 +1,6 @@
-milestones jarod jelinek
+Rubric for Final Project | Jarod Jelinek
+
+Fit Your Fit: Fitness Web Application
+
++ 30 points | Study HTML and CSS code
++ 10 points | Create an HTML page
