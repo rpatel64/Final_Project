@@ -2,5 +2,17 @@ Rubric for Final Project | Jarod Jelinek
 
 Fit Your Fit: Fitness Web Application
 
-+ 30 points | Study HTML and CSS code
-+ 10 points | Create an HTML page
+For Python watch - https://www.youtube.com/watch?v=kkQlyDMa-h0
+For SQL watch - https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=share
+
++ 10 points | Studied Python
++ 30 points | Studied SQL
+
+Time Log:
+  3/6/19 6pm - 7pm all team members //initial meeting, create proposal 
+  3/24/19 6pm - 7pm Jarod //researched html workings
+  3/26/19 8pm - 10pm all team members //Specifically split work between members
+  3/__/19 _pm - _pm Jarod // watched python video & took notes
+  3/__/19 _pm - _pm Jarod // watched portion of SQL video & took notes
+  
+  
