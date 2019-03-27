@@ -1,1 +1,122 @@
-<head></head>
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../WebsiteCSS.css">
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="top">
+  <div class="bar white wide padding card">
+    <a href="#home" class="bar-item button"><b>FYF</b>   FIT YOUR FIT</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="right hide-small">
+      <a href="#projects" class="bar-item button">Workout Plans</a>
+      <a href="#about" class="bar-item button">About</a>
+      <a href="#Sign In" class="bar-item button">Sign In</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="display-container content wide" style="max-width:1500px;" id="home">
+  <img class="image" src="BackGround.jpg" alt="Architecture" width="1500" height="800">
+  <div class="display-middle margin-top center">
+    <h1 class="xxlarge text-white"><span class="padding black opacity-min"><b>FYF</b></span> <span class="hide-small text-light-grey">FIT YOUR FIT</span></h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="content padding" style="max-width:1564px">
+
+  <!-- Project Section -->
+  <div class="container padding-32" id="projects">
+    <h3 class="border-bottom border-light-grey padding-16">Workout Plans</h3>
+  </div>
+
+  <div class="row-padding">
+    <div class="col l3 m6 margin-bottom">
+      <div class="display-container">
+        <div class="display-topleft black padding">Upper Body</div>
+        <img src="/w3images/house5.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="col l3 m6 margin-bottom">
+      <div class="display-container">
+        <div class="display-topleft black padding">Lower Body</div>
+        <img src="/w3images/house2.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="col l3 m6 margin-bottom">
+      <div class="display-container">
+        <div class="display-topleft black padding">Cardio</div>
+        <img src="/w3images/house3.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+  </div>
+
+  <!-- About Section -->
+  <div class="container padding-32" id="about">
+    <h3 class="border-bottom border-light-grey padding-16">About</h3>
+    <p>EAT SLEEP BREATHE FITNESS!
+    </p>
+  </div>
+
+  <div class="row-padding">
+    <div class="col l3 m6 margin-bottom">
+      <img src="Ravi.JPG" alt="Ravi">
+      <h3>Ravi Patel</h3>
+      <p class="opacity">Founder</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="button light-grey block">Contact</button></p>
+    </div>
+    <div class="col l3 m6 margin-bottom">
+      <img src="Kishan.JPG" alt="Kishan">
+      <h3>Kishan Tailor</h3>
+      <p class="opacity">Founder</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="button light-grey block">Contact</button></p>
+    </div>
+    <div class="col l3 m6 margin-bottom">
+      <img src="Jarod.JPG" alt="Jarod">
+      <h3>Jarod Jelinek</h3>
+      <p class="opacity">Founder</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="button light-grey block">Contact</button></p>
+    </div>
+    <div class="col l3 m6 margin-bottom">
+      <img src="Josh.jpg" alt="Josh" style="width:55%">
+      <h3>Josh Gray</h3>
+      <p class="opacity">Founder</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <p><button class="button light-grey block">Contact</button></p>
+    </div>
+  </div>
+
+  <!-- Contact Section -->
+  <div class="container padding-32" id="Sign In">
+    <h3 class="border-bottom border-light-grey padding-16">Sign In</h3>
+    <p>Lets get in touch and talk about your next project.</p>
+    <form action="/action_page.php" target="_blank">
+      <input class="input border" type="text" placeholder="Name" required name="Name">
+      <input class="input section border" type="text" placeholder="Email" required name="Email">
+      <input class="input section border" type="text" placeholder="Username" required name="Username">
+      <input class="input section border" type="text" placeholder="Password" required name="Password">
+      <button class="button black section" type="submit">
+        <i class="fa fa-paper-plane"></i> Sign In
+      </button>
+    </form>
+  </div>
+  
+<!-- Image of location/map -->
+<div class="container">
+  <img src="BackGround.jpg" class="image" style="width:100%">
+</div>
+
+<!-- End page content -->
+</div>
+
+
+</body>
+</html>
