@@ -2,6 +2,8 @@ Rubric for Final Project | Jarod Jelinek
 
 Fit Your Fit: Fitness Web Application
 
+Github Link: https://github.com/rpatel64/Final_Project.git
+
 For Python watch - https://www.youtube.com/watch?v=kkQlyDMa-h0
 For SQL watch - https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=share
 
@@ -14,5 +16,4 @@ Time Log:
   3/26/19 8pm - 10pm all team members //Specifically split work between members
   3/26/19 10pm - 10:30pm Jarod // watched python video & took notes
   3/27/19 5:30pm - 6:30pm Jarod // watched portion of SQL video & took notes
-  
   
