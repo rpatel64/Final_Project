@@ -1,5 +1,5 @@
 Active Log in Hours:
-Kishan  4
+Kishan  6
 Ravi  4
 Josh  4
 Jarod 4
@@ -9,3 +9,4 @@ Jarod 4
 3/24/19 6pm - 7pm Jarod //researched html workings
 3/25/19 9am-10am Josh //Added links to different pages for workouts
 3/26/19 8pm - 10pm all team members //Specifically split work between members
+3/28/19 10pm-12pm Kishan //Downloaded, set up, learned how to use SQL Server
