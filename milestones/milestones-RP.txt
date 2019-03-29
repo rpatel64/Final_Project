@@ -17,15 +17,16 @@ Git Repository:
 https://github.com/rpatel64/Final_Project.git
 
 Rubric:
-I based this rubric out of 100 points for the work I did.
-40pts | Website Home Page
-10pts | Website Upper Body, Lower Body, Cardio Pages
-50pts | Website Login Page
+15pts | Website Home Page
+5pts  | Website Upper Body, Lower Body, Cardio Pages
+20pts | Website Login Page
 
 Short Report:
 I thought this challenge went well as a whole; however, I was unsure on somethings.
 First, I like how the challenge prepares us for what we will have to turn in for
 the final report. I also like that is kind of forces us to meet up and work on the
-project and not procrastinate. I did not really understand how the points worked.
-I based my points on like if my work was worth 100 percent. I give more percentage
-to the work that required the most time and effort. 
+project and not procrastinate. I really did not understand how the rubric worked.
+I knew we had to make it out of 40 points however I did not know if we had to make
+a rubric for stuff we still have to accomplish. Additionally, I was glad we got to 
+work on the project during lab time. I got a chance to ask the TA's for help and 
+they gave me tips on what software to use for our project.
