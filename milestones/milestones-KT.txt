@@ -24,7 +24,11 @@ Rubric:
 Compilable Task: You can see my server setup and I can explain what I have learned about it so far and see my notes.
 
 Short Report:
-This challenge went well and personally, I did not run in to too many issues. Many of my problems came setting up the server as it was not as straightforward as I would have liked. However I still had fun, and enjoyed learning something completely foreign to me. The problems I can see for the future is that there is still a lot to learn. Flask is going to prove to be an issue and creating the backend in python is going to be another obstacle to overcome. I look forward to it but I dont think I can finish all this in one week, but they are longterm goals.
+This challenge went well and personally, I did not run in to too many issues. Many of my problems came setting up the server as it was not
+as straightforward as I would have liked. However I still had fun, and enjoyed learning something completely foreign to me. The problems I
+can see for the future is that there is still a lot to learn. Flask is going to prove to be an issue and creating the backend in python is
+going to be another obstacle to overcome. I look forward to it but I dont think I can finish all this in one week, but they are longterm
+goals.
 
 Future Week Goals:
 Continue to learn SQL
