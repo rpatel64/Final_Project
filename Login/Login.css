@@ -2,7 +2,7 @@ body
 {
     font-family: Tahoma, Geneva, sans-serif;
     color: #fff;
-    background: url(Login_Background.JPG);
+    background: url(Login\Login_Background.JPG);
     background-size: cover;
 }
 .signin
