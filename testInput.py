@@ -13,6 +13,6 @@ cur.execute(insert_query)
 
 #print insert_query
 
-print 'Account Creation Successful'
+print 'Thank you for creating an account with Fit Your Fit ' + str(firstName) + ' ' + str(lastName)
 
 conn.commit()
