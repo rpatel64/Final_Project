@@ -12,3 +12,6 @@ Jarod 5.5
 3/26/19 10pm - 10:30pm Jarod // learned python basics
 3/27/19 5:30pm - 6:30pm Jarod // watched portion of video on SQL basics
 3/28/19 10pm-12pm Kishan //Downloaded, set up, learned how to use SQL Server
+4/1/19 12pm-1pm Jarod // Set up an online SQL Server
+4/1/19 4:00pm-5:30pm Jarod & Kishan // Made python code that can input data into the database as well as PHP code
+
