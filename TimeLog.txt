@@ -1,8 +1,8 @@
 Active Log in Hours:
-Kishan  6
+Kishan  9.5
 Ravi  4
 Josh  4
-Jarod 8
+Jarod 10
 
 3/6/19 6pm - 7pm all team members //initial meeting, create proposal 
 3/16/19 7pm - 8pm Ravi, Kishan //Created initial website layout, storyboarding
