@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from flask import Flask, request, render_template
 app = Flask(__name__)
 
@@ -5,9 +6,9 @@ app = Flask(__name__)
 def home():
 	return render_template("index.html")
 
-@app.route('/login')
-def login():	
+@app.route('/Login.html')
+def login():
 	return render_template("Login.html")
 
 if __name__ == '__main__':
-	app.run(debug=True)	
+	app.run(debug=True)
