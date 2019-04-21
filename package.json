@@ -5,7 +5,7 @@
         "node": "10.15.3"
     },
     "scripts": {
-        "start": "node server.js"
+        "start": "python testing/flask-intro/app.py"
     },
     "dependencies": {
         "express": "4.13.3"
