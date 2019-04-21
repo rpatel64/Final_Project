@@ -1,1 +1,1 @@
-web: python testing/flask-intro/app.py
+web: node server.js
