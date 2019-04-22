@@ -13,9 +13,10 @@ if (!empty($email)){
     $dbuser = "gxupvblzzfulmn";
     $dbpassword = "6f218f9e00cb85e2d96043b8a25898951fd0fbd475a5bcbeb9eb2ba4cc42d072";
     $dbname = "d1fs1cm170ct9t";
+    $mode = "require";
     // Create connection
     // $conn = mysqli_connect($host, $dbuser, $dbpassword, $dbname);
-    $conn = pg_connect("host=$host port=$port dbname=$dbname user=$dbuser password=$dbpassword");
+    $conn = pg_connect("host=$host port=$port dbname=$dbname user=$dbuser password=$dbpassword sslmode=$mode");
     // if (mysqli_connect_error()){
     if($conn == false){
       die('Connection Error');
