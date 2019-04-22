@@ -1,21 +1,21 @@
 body
 {
-    font-family: Tahoma, Geneva, sans-serif;
-    color: #fff;
     background: url(LoginBackground.jpg);
     background-size: cover;
 }
-.signin
+
+.signup
 {
     background: rgba(18, 25, 32, 0.7);
     padding: 40px;
     width: 250px;
     margin: auto;
+    height: 430px;
     margin-top: 80px;
-    height: 400px;
-    margin-left: 180x;
+    margin-left: 180px;
+    margin: 0 auto;
+    margin-top: 90px;
 }
-
 form
 {
     width: 240px;
@@ -34,7 +34,7 @@ input[type=text]
     padding: 10px 0;
     transition: border 0.5s;
     outline: none;
-    color: #fff;
+    color: black;
 }
 input[type=password]
 {
@@ -63,32 +63,7 @@ input[type=button]
     border-radius: 15px;
     cursor: pointer;
 }
-input[type=button]:hover
-{
-    color: #fff;
-    background-color: black;
-}
-h2
-{
-    color: white;
-}
-a
-{
-    color: orange;
-    text-decoration: blink;
-}
-a:hover
-{
-    color: skyblue;
-}
-.container
-{
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-}
-::placeholder 
+::placeholder
 {
     color: aliceblue;
-    opacity: 0.8;
 }
