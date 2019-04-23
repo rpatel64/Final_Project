@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from flask import Flask, request, render_template, redirect, url_for, request
 import psycopg2
 app = Flask(__name__)
@@ -19,7 +20,7 @@ def login():
 		print(request.values.get("password"))
 		if request.form.get('username') == "hello":
 			print("hello")
-	else: 
+	else:
 		print("2")
 		return redirect(url_for('/'))
 	print("3")
@@ -36,6 +37,18 @@ def result():
 def index():
 	return render_template('index.html')
 
+@app.route('/UpperBody_Main.html')
+def upper():
+	return render_template('UpperBody_Main.html')
+
+@app.route('/LowerBody_Main.html')
+def lower():
+	return render_template('LowerBody_Main.html')
+
+@app.route('/Cardio_Main.html')
+def cardio():
+	return render_template('Cardio_Main.html')
+
 @app.route('/SignUp.html', methods=['GET','POST'])
 def signup():
 	if request.values.get('firstname') != None:
@@ -44,7 +57,7 @@ def signup():
 		password = request.values.get('password')
 		print(request.values.get('confirm'))
 		email = request.values.get('email')
-	
+
 		conn = psycopg2.connect("host=ec2-23-23-92-204.compute-1.amazonaws.com dbname=d1fs1cm170ct9t user=gxupvblzzfulmn password=6f218f9e00cb85e2d96043b8a25898951fd0fbd475a5bcbeb9eb2ba4cc42d072")
 		cur = conn.cursor()
 
@@ -60,7 +73,7 @@ def signup():
 
 
 	return render_template('SignUp.html')
-	
+
 
 if __name__ == '__main__':
-	app.run(debug=True)	
+	app.run(debug=True)
