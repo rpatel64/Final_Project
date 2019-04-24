@@ -51,18 +51,7 @@ input[type=password]
     outline: none;
     color: #fff;
 }
-input[type=submit]
-{
-    border: none;
-    width: 190px;
-    background: white;
-    color: #000;
-    font-size: 16px;
-    line-height: 25px;
-    padding: 10px 0;
-    border-radius: 15px;
-    cursor: pointer;
-}
+
 ::placeholder
 {
     color: aliceblue;
