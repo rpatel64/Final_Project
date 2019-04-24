@@ -23,6 +23,9 @@
             <a href="Login.html"><input type="submit" value="Sign up"></a>
             <br><br>
         </form>
+	{% if error %}
+	<p class ="error"><strong>Error:</strong> {{ error }}</p>
+	{% endif %}
     </div>
 
 </body>

@@ -1,5 +1,5 @@
 Active Log in Hours:
-Kishan  9.5
+Kishan  25
 Ravi  11
 Josh  4
 Jarod 10
@@ -18,7 +18,10 @@ Jarod 10
 4/1/19 12pm-1pm Jarod // Set up an online SQL Server
 4/1/19 4:00pm-5:30pm Jarod & Kishan // Made python code that can input data into the database as well as PHP code
 4/9/19 6:00pm-8pm Jarod & Kishan // Worked on understanding the PHP and python code and attempted to embed it into a website
-04/10 10:00pm - 12:00am Kishan // Learned Flask
-04/11 1:00pm-2:00pm Jarod & Kishan // Further learning of Flask
-
-
+04/10/19 10:00pm - 12:00am Kishan // Learned Flask
+04/11/19 1:00pm-2:00pm Jarod & Kishan // Further learning of Flask
+04/15/19 3:00pm-5:00pm-Kishan // Starting Flask implementation
+04/21/19 8:00pm-12:00am-Kishan // Nearing Completition of Flask Login Page
+04/22/19 2:30pm-5:30pm-Kishan and Jarod //Fixed the Flask Bug in the login page
+04/22/19 10:00pm - 1:00am- Kishan Sent data to database from login page
+04/23/10 11:00pm - 2:30am - Kishan // Made Login and SignUp page errors

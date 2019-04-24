@@ -7,7 +7,7 @@
     </head>
 <body>
     <div class="signin">
-        <form action="http://localhost:5000/result" method="GET">
+        <form action="/Login.html" method="GET">
             <h2 style="color: white">Log In</h2>
             <input type="text" name="username" placeholder="Username" id="username" value={{request.form.username}}> 
             <input type="password" name="password" placeholder="Password" id = "password" value={{request.form.password}}><br><br>
@@ -18,7 +18,9 @@
             </div><br><br><br><br><br><br>
             Don't have account?<a href="/SignUp.html">&nbsp;Sign Up</a>
         </form>
-
+	{% if error %}
+        <p class ="error"><strong>Error:</strong> {{ error }}</p>
+        {% endif %}	
     </div>
 </body>
 
