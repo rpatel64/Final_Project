@@ -34,7 +34,7 @@ input[type=text]
     padding: 10px 0;
     transition: border 0.5s;
     outline: none;
-    color: #fff;
+    color: black;
 }
 input[type=password]
 {
@@ -51,7 +51,7 @@ input[type=password]
     outline: none;
     color: #fff;
 }
-input[type=button]
+input[type=submit]
 {
     border: none;
     width: 190px;
@@ -70,7 +70,7 @@ input[type=button]:hover
 }
 h2
 {
-    color: white;
+    color: black;
 }
 a
 {
