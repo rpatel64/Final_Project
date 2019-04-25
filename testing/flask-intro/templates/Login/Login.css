@@ -51,7 +51,7 @@ input[type=password]
     outline: none;
     color: #fff;
 }
-input[type=button]
+input[type=submit]
 {
     border: none;
     width: 190px;
