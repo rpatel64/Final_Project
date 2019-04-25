@@ -20,22 +20,14 @@ def login():
     conn = psycopg2.connect("host=ec2-23-23-92-204.compute-1.amazonaws.com dbname=d1fs1cm170ct9t user=gxupvblzzfulmn password=6f218f9e00cb85e2d96043b8a25898951fd0fbd475a5bcbeb9eb2ba4cc42d072")
     cur = conn.cursor()
 
-    cur.execute("SELECT email FROM members")
+    cur.execute("SELECT email,password FROM members WHERE email = email AND password = password")
     user = cur.fetchall()
     for i in user:
-        #	print(i, username)
-        if username in i:
+        print(i)
+        if username and password in i:
             bool1 = True
-
-    cur.execute("SELECT password FROM members")
-    passw = cur.fetchall()
-
-    for j in passw:
-        #	print(j, password)
-        if password in j:
-            bool2 = True
-
-    if bool1 == True and bool2 == True:
+    
+    if bool1 == True:
         return render_template('/index.html')
     else:
         if username != None and password != None:
