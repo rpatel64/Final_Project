@@ -25,7 +25,7 @@ def login():
     user = cur.fetchall()
     for i in user:
         print(i)
-        if i[0] == username:
+        if i[0] == username and i[1] == hash(password):
             bool1 = True
             LogIn = i[2]
             break
