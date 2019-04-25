@@ -5,6 +5,8 @@ import re
 import hashlib
 app = Flask(__name__)
 
+LogIn = "Log In"
+
 #home page route
 @app.route('/')
 def home():
@@ -16,7 +18,6 @@ def login():
     bool1 = False
     bool2 = False
     error = None
-    LogIn = "LogIn"
     
     #takes the username and password from box
     username = request.values.get('username')
@@ -51,22 +52,22 @@ def login():
 #index page route
 @app.route('/index.html')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', error = LogIn)
 
 #upperbody route
 @app.route('/UpperBody_Main.html')
 def upper():
-    return render_template('UpperBody_Main.html')
+    return render_template('UpperBody_Main.html', error = LogIn)
 
 #LowerBody route
 @app.route('/LowerBody_Main.html')
 def lower():
-    return render_template('LowerBody_Main.html')
+    return render_template('LowerBody_Main.html', error = LogIn)
 
 #Cardio route
 @app.route('/Cardio_Main.html')
 def cardio():
-    return render_template('Cardio_Main.html')
+    return render_template('Cardio_Main.html', error = LogIn)
 
 #hash function
 def hash(password):
