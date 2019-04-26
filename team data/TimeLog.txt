@@ -1,14 +1,15 @@
 Active Log in Hours:
 Kishan  29
 Ravi  16
-Josh  10.5
+Josh  20
 Jarod 20.5
 
 3/6/19 6pm - 7pm all team members //initial meeting, create proposal 
 3/15/19 7:00pm - 9:00pm Ravi // Watched videos on HTML and CSS. Made a prototype website to learn more about HTML and CSS.
+3/15/19 8:00pm - 10:00pm Josh // Learning HTML code
 3/16/19 7pm - 8pm Ravi, Kishan //Created initial website layout, storyboarding
 3/24/19 6pm - 7pm Jarod //researched html workings
-3/25/19 8:00am - 11:00am Ravi // In lab informed Josh about the progress on the website. We talked about what we would like to add and how we would want the website to look. Added a few pages to the website.
+3/25/19 8:00am - 11:00am Ravi and Josh // In lab informed Josh about the progress on the website. We talked about what we would like to add and how we would want the website to look. Added a few pages to the website.
 3/25/19 9am-10am Josh //Added links to different pages for workouts
 3/26/19 8pm - 10pm all team members //Specifically split work between members
 3/26/19 10pm - 10:30pm Jarod // learned python basics
@@ -20,8 +21,11 @@ Jarod 20.5
 4/9/19 6:00pm-8pm Jarod & Kishan // Worked on understanding the PHP and python code and attempted to embed it into a website
 04/10/19 10:00pm - 12:00am Kishan // Learned Flask
 04/11/19 1:00pm-2:00pm Jarod & Kishan // Further learning of Flask
+04/15/19 10:00am-11:00am Josh //Formatting upper body page
 04/15/19 3:00pm-5:00pm-Kishan // Starting Flask implementation
+04/20/19 12:00pm-2:00pm Josh//Formatting main page and upper body page
 04/21/19 8:00pm-12:00am-Kishan // Nearing Completition of Flask Login Page
+04/22/19 9:30am-11:00am Josh // Creating and linking Cardio page and formatting lower body images
 04/22/19 2:30pm-5:30pm-Kishan and Jarod //Fixed the Flask Bug in the login page
 04/22/19 10:00pm - 1:00am- Kishan Sent data to database from login page
 04/23/19 11:00pm - 2:30am - Kishan // Made Login and SignUp page errors
