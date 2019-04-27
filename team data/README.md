@@ -1,4 +1,3 @@
-# Final_Project
 # FIT YOUR FIT
 
 # TEAM MEMBERS:
