@@ -20,3 +20,4 @@ To run the website locally, you can run the app.py file by typing:
 # GITHUB REPOSITORY:
 The github repo can be found at:
   * https://github.com/rpatel64/Final_Project.git
+  * Our team time log can be found in the team data folder.
