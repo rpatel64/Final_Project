@@ -22,7 +22,7 @@ TEAM MEETING LOG:
   * Ravi - finished work on the css files
   * Josh - added finishing touches to the excercise pages
   * Jarod - cleaned the github, completed the hosting on heroku, & wrote code to check for valid emails.
-  * Kishan - wrote the hash function and finished the hashing and comparing of passwords & completed finishing touches on python code.
+  * Kishan - wrote the hash function & completed finishing touches on python code.
 
 ------------------------------------------------------------------------------------------------------------------
 TIMELOG:
