@@ -12,7 +12,9 @@ The website can be found at:
 # HOW TO RUN IT:
 To run the website locally, you can run the app.py file by typing:
   * python app.py
-  * You will need psycopg2 which can be installed by typing a command in terminal such as:
+  * You will need python, psycopg2, & flask which can be installed by typing a command in terminal such as:
+    - pip install python
+    - pip install flask
     - pip install psycopg2
     
 # GITHUB REPOSITORY:
